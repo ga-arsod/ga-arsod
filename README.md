@@ -1,6 +1,6 @@
 <h2>Hi, I'm Gaurav Arsod</h2>
 
-- 🌱 I’m currently learning full stack web development.
+- 🌱 Aspiring full stack web developer.
 - 👀 I love progamming, reading and travelling.
 - 📫 You can find me on.
    - <a href="https://www.linkedin.com/in/gaurav-arsod/">LinkedIn</a>
