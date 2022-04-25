@@ -14,7 +14,7 @@
   :computer: Github Analytics
 </h2>
 
-<p float="center">
+<p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham&show_icons=true" width=450/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga-arsod&layout=compact&theme=gotham&show_icons=true" width=350/>
 </p>
