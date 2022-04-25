@@ -15,7 +15,7 @@
 </h2>
 
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga-arsod&layout=compact&theme=gotham" />
 </p>
 
