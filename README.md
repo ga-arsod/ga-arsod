@@ -15,8 +15,8 @@
 </h2>
 
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga-arsod&layout=compact&theme=gotham" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham&card_width=600&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga-arsod&layout=compact&theme=gotham&card_width=300&show_icons=true" />
 </p>
 
 
