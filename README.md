@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=49AD91D9&center=true&vCenter=true&width=1000&height=50&lines=Aspiring+Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=49AD91D9&center=true&vCenter=true&width=1000&height=50&lines=Aspiring+Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <hr/>
 
@@ -32,18 +32,28 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
 
 <p align="center">
     <span><img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><span>
-       <span><img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><span>
-          <span><img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /><span>
-             <span><img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><span>
-               <span><img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" /><span>
-                  <span><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /><span>
-                     <span><img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><span>
-                       <span><img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><span>
-                         <span><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /><span>
-                            <span><img src ="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" /><span>
-                              <span><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><span>
-                    
+    <span><img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><span>
+    <span><img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" /><span>
+    <span><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><span>
 </p>
+      
+ <h2 align="left">
+  🔗 You Can Find Me On
+</h2>
+  
+<p align="center">
+  Email - <a href="gaarsod@gmail.com">gaarsod14@gmail.com</a> 
+</p>
+                                
+
+    
                               
 <!--  <span width=300><img src ="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /><span>
  -->
