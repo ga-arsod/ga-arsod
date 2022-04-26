@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=49AD91D9&center=true&vCenter=true&width=1000&height=50&lines=Aspiring+Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=49AD91D9&center=true&vCenter=true&width=1000&height=50&lines=Aspiring+Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <hr/>
 
@@ -30,7 +30,7 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
   🛠️ Tech Stack
 </h2>
 
-<p>
+<p align="center">
     <span><img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><span>
        <span><img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><span>
           <span><img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /><span>
