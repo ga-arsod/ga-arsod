@@ -5,6 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=49AD91D9&center=true&vCenter=true&width=1000&height=50&lines=Aspiring+Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
+<hr/>
+
+<p style="font-family:monospac" align="center">
+Aspiring Full-stack web developer from India.:bulb: I am currently learning full-stack web development at Masai School India.:school: I love building applications & discussing new product ideas.:v:
+</p>
+
 
 <!-- <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ga-arsod&currStreakNum=2FD3EB&fire=pink&theme=gotham" />
