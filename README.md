@@ -49,7 +49,8 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
 </h2>
   
 <p align="center">
-  Email - <a href="gaarsod@gmail.com">gaarsod14@gmail.com</a> 
+  <a href="gaarsod@gmail.com">E-mail</a> 
+  <a href="">Linkedin</a>
 </p>
                                 
 
