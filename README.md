@@ -8,7 +8,7 @@
 <hr/>
 
 <p style="font-family:monospac" align="center">
-Aspiring Full-stack web developer from India.:bulb: I am currently learning full-stack web development at Masai School India.:school: I love building applications & discussing new product ideas.:v:
+Full-stack web developer from India.:bulb: I am currently learning new things which will enhance my skills and make myself better day by day.:books: I love building applications & discussing new product ideas.:v:
 </p>
 
 
@@ -23,6 +23,8 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham&show_icons=true" width=450/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga-arsod&layout=compact&theme=gotham&show_icons=true" width=350/>
+  
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham) -->
 </p>
 
 
@@ -32,6 +34,7 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
 
 <p align="center">
     <span><img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><span>
+    <span><img src ="https://img.shields.io/badge/typescript-%2300f.svg?style=for-the-badge&logo=typescript&logoColor=white" /><span>
     <span><img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><span>
     <span><img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /><span>
     <span><img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><span>
@@ -50,7 +53,6 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
   
 <p align="center">
   <a href="gaarsod@gmail.com">E-mail</a> 
-  <p></p>
   <a href="https://www.linkedin.com/in/gaurav-arsod">Linkedin</a>
 </p>
                                 
