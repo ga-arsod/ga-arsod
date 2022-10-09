@@ -50,7 +50,8 @@ Aspiring Full-stack web developer from India.:bulb: I am currently learning full
   
 <p align="center">
   <a href="gaarsod@gmail.com">E-mail</a> 
-  <a href="">Linkedin</a>
+  <p></p>
+  <a href="https://www.linkedin.com/in/gaurav-arsod">Linkedin</a>
 </p>
                                 
 
