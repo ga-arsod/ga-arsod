@@ -57,10 +57,6 @@ Full-stack web developer from India.:bulb: I am currently learning new things wh
 </p>
                                 
 
-    
-                              
-<!--  <span width=300><img src ="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /><span>
- -->
 
 <!---
 ga-arsod/ga-arsod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
