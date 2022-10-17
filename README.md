@@ -43,7 +43,7 @@ Full-stack web developer from India.:bulb: I am currently learning new things wh
     <span><img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><span>
     <span><img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><span>
     <span><img src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /><span>
-    <span><img src ="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" /><span>
+    <span><img src ="https://img.shields.io/badge/materialui-%234ED1C5.svg?style=for-the-badge&logo=materialui&logoColor=white" /><span>
     <span><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><span>
 </p>
       
