@@ -59,7 +59,7 @@ Full-stack web developer from India.:bulb: I am currently learning new things wh
 </p>
                                 
 <p align="center">
- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+ <img src="https://raw.githubusercontent.com//matfantinel/matfantinel/master/waves.svg" alt="Github Stats" />
 </p>
 
 <!---
