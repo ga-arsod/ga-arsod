@@ -58,7 +58,9 @@ Full-stack web developer from India.:bulb: I am currently learning new things wh
   <a href="https://twitter.com/ga_arsod"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
                                 
-
+<p align="center">
+ <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <!---
 ga-arsod/ga-arsod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
