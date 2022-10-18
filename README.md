@@ -57,6 +57,8 @@ Full-stack web developer from India.:bulb: I am currently learning new things wh
   <a href="https://www.linkedin.com/in/gaurav-arsod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ga_arsod"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+
+<br/>
                                 
 <p align="center">
  <img src="https://raw.githubusercontent.com//matfantinel/matfantinel/master/waves.svg" alt="Github Stats" />
